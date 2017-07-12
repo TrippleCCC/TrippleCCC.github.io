@@ -1,0 +1,19 @@
+body {
+    font-family:sans-serif;
+}
+
+.main {
+    background-image: 'world-hands.jpg';
+    color: black;
+    
+}
+
+.main h1 {
+    font-size: 60px;
+    position: relative; 
+}
+
+.tabs li {
+    display: inline;
+    
+}
